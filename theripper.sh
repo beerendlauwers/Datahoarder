@@ -69,10 +69,10 @@ fi
 echo "Creating list of urls..."
 spider
 echo "Index created!"
-download
+#Odownload
 
 # Cleanup
 rm opendir-$$.log
 rm opendir-$$.log.tmp
-rm list-$$.txt
-rm link-$$.down
+#rm list-$$.txt
+#rm link-$$.down
